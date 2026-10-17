@@ -1,4 +1,0 @@
-# Copy to local.properties and fill in. Never commit local.properties.
-sdk.dir=/path/to/Android/Sdk
-MAPS_API_KEY=your_maps_key
-AQI_API_KEY=your_aqi_data_key
