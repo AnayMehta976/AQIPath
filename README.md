@@ -43,7 +43,6 @@ AQIPath is available on both stores:
 4. **Rank and recommend.** Routes are ranked on a combination of exposure and travel time, and the best option is shown on the colour-coded map.
 5. **Keep watching.** While you are out, the app monitors conditions and alerts you if air quality changes or a cleaner route appears.
 
-See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for more detail.
 
 ## AQI reference
 
@@ -77,26 +76,6 @@ cp local.properties.example local.properties   # then fill in your keys
 
 Open the project in Android Studio, let Gradle sync, and run the `app` configuration.
 
-### Configuration
-
-Secrets are never committed. Copy [`local.properties.example`](local.properties.example) to `local.properties` and add your own keys:
-
-```properties
-MAPS_API_KEY=your_maps_key
-AQI_API_KEY=your_aqi_data_key
-```
-
-## Project structure
-
-```
-AQIPath/
-├── app/                  # Android application module
-├── docs/                 # Architecture notes and screenshots
-├── .github/              # Issue and pull request templates
-├── CONTRIBUTING.md
-├── PRIVACY.md
-└── README.md
-```
 
 ## Roadmap
 
