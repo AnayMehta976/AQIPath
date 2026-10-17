@@ -128,7 +128,7 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first,
 ## Support
 
 - Bug reports and feature requests: [GitHub Issues](https://github.com/AnayMehta976/AQIPath/issues)
-- Email: srbmehta@gmail.com
+- Email: anaymht12@gmail.com
 
 ## Acknowledgements
 
