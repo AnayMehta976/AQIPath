@@ -34,17 +34,6 @@ AQIPath is available on both stores:
 - **Android** — [Google Play](https://play.google.com/store/apps/details?id=com.tekzee.aqiapp)
 - **iOS** — [App Store](https://apps.apple.com/app/id6754751849)
 
-## Screenshots
-
-Screenshots are listed on the [Play Store](https://play.google.com/store/apps/details?id=com.tekzee.aqiapp) and [App Store](https://apps.apple.com/app/id6754751849) pages. To show them here, add images to [`docs/screenshots/`](docs/screenshots/) and reference them, for example:
-
-```markdown
-<p float="left">
-  <img src="docs/screenshots/home.png" width="200" />
-  <img src="docs/screenshots/route.png" width="200" />
-  <img src="docs/screenshots/loop.png" width="200" />
-</p>
-```
 
 ## How it works
 
@@ -109,10 +98,6 @@ AQIPath/
 └── README.md
 ```
 
-## Privacy
-
-AQIPath uses your location to compute routes and show local air quality. See [PRIVACY.md](PRIVACY.md) for what is collected, how it is protected, and how to request deletion.
-
 ## Roadmap
 
 - [ ] Offline caching of recent AQI readings
@@ -121,9 +106,6 @@ AQIPath uses your location to compute routes and show local air quality. See [PR
 - [ ] Wear OS companion for run tracking
 - [ ] Hindi and other regional languages
 
-## Contributing
-
-Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first, then open an issue or pull request.
 
 ## Support
 
