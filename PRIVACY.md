@@ -20,5 +20,3 @@ You can deny or revoke location permission in Android settings (some features wi
 ## Contact
 
 anaymht12@gmail.com
-
-This summary mirrors the app's Google Play Data safety declaration. Keep it in sync with the in-app privacy policy.
