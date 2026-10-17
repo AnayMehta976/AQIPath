@@ -1,13 +1,13 @@
 # AQIPath
 
-**Navigate by the air you breathe.** AQIPath is an Android app that finds the route with the cleanest air, using real-time Air Quality Index (AQI) data together with live traffic and travel times. Runners and cyclists can also generate loop routes of a chosen distance that start and end at home.
+**Navigate by the air you breathe.** AQIPath is an Android and iOS app that finds the route with the cleanest air, using real-time Air Quality Index (AQI) data together with live traffic and travel times. Runners and cyclists can also generate loop routes of a chosen distance that start and end at home.
 
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download-3DDC84?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tekzee.aqiapp)
-![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
+[![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/app/id6754751849)
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-555)
 ![Status](https://img.shields.io/badge/status-released-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
-> Package ID: `com.tekzee.aqiapp` · Category: Weather · Content rating: Everyone
+> Android package ID: `com.tekzee.aqiapp` · Category: Weather · Content rating: Everyone
 
 ---
 
@@ -29,11 +29,14 @@ Daily commuters, runners and cyclists, parents on school runs, travellers in unf
 
 ## Download
 
-Install the latest release from the [Google Play Store](https://play.google.com/store/apps/details?id=com.tekzee.aqiapp).
+AQIPath is available on both stores:
+
+- **Android** — [Google Play](https://play.google.com/store/apps/details?id=com.tekzee.aqiapp)
+- **iOS** — [App Store](https://apps.apple.com/app/id6754751849)
 
 ## Screenshots
 
-Screenshots are listed on the [Play Store page](https://play.google.com/store/apps/details?id=com.tekzee.aqiapp). To show them here, add images to [`docs/screenshots/`](docs/screenshots/) and reference them, for example:
+Screenshots are listed on the [Play Store](https://play.google.com/store/apps/details?id=com.tekzee.aqiapp) and [App Store](https://apps.apple.com/app/id6754751849) pages. To show them here, add images to [`docs/screenshots/`](docs/screenshots/) and reference them, for example:
 
 ```markdown
 <p float="left">
@@ -103,7 +106,6 @@ AQIPath/
 ├── .github/              # Issue and pull request templates
 ├── CONTRIBUTING.md
 ├── PRIVACY.md
-├── LICENSE
 └── README.md
 ```
 
@@ -113,7 +115,6 @@ AQIPath uses your location to compute routes and show local air quality. See [PR
 
 ## Roadmap
 
-- [ ] iOS version
 - [ ] Offline caching of recent AQI readings
 - [ ] Personal exposure history and weekly summary
 - [ ] Health profiles (asthma and other sensitivities) with tailored thresholds
@@ -128,10 +129,6 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first,
 
 - Bug reports and feature requests: [GitHub Issues](https://github.com/AnayMehta976/AQIPath/issues)
 - Email: srbmehta@gmail.com
-
-## License
-
-Released under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
