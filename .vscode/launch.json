@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "aqi_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "aqi_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "aqi_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "apk",
+            "cwd": "apk",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "apk (profile mode)",
+            "cwd": "apk",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "apk (release mode)",
+            "cwd": "apk",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "background_locator_2",
+            "cwd": "plugins/background_locator_2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "background_locator_2 (profile mode)",
+            "cwd": "plugins/background_locator_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "background_locator_2 (release mode)",
+            "cwd": "plugins/background_locator_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

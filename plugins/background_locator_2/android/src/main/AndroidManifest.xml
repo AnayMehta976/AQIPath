@@ -1,0 +1,42 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="yukams.app.background_locator_2">
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION"/>
+
+    <!-- Required from Android 14+ -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+
+    <application>
+        <!-- Foreground Service for background location -->
+        <service
+            android:name="yukams.app.background_locator_2.IsolateHolderService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:enabled="true"
+            android:exported="true"
+            android:stopWithTask="false"
+            android:foregroundServiceType="location" />
+
+        <!-- Broadcast Receiver to restart service -->
+       <receiver
+           android:name="yukams.app.background_locator_2.BootBroadcastReceiver"
+           android:enabled="true"
+           android:exported="false"
+          tools:ignore="MissingClass" />
+
+        <!-- Boot complete receiver to restart tracking after reboot -->
+<!--        <receiver-->
+<!--            android:name="yukams.app.background_locator_2.RestartBroadcastReceiver"-->
+<!--            android:enabled="true"-->
+<!--            android:exported="true">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.BOOT_COMPLETED" />-->
+<!--            </intent-filter>-->
+<!--        </receiver>-->
+    </application>
+</manifest>

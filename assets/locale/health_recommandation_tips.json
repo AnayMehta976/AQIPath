@@ -1,0 +1,253 @@
+[
+  {
+    "aqiRange": "0-50",
+    "category": "Good",
+
+    "recommendations": {
+      "children": [
+        "Let your children enjoy the outdoors freely — it's a perfect day for playground games, bike rides, or sports.",
+        "Air quality is great! Encourage outdoor learning, physical education, and time in nature.",
+        "No restrictions needed today — outdoor recess, park visits, and field trips are all highly encouraged.",
+        "Children can safely engage in high-energy activities outside without any concern for pollution.",
+        "A great day for family outings — consider a picnic, hiking, or nature trail exploration."
+      ],
+      "elderly": [
+        "The air is clean and refreshing — it's an ideal time for elderly individuals to enjoy a morning or evening walk.",
+        "Spending time outside is highly beneficial today; enjoy gardening, stretching, or light group exercises outdoors.",
+        "Plan social activities like tea in the garden or visiting a nearby park — no need to worry about air quality.",
+        "Fresh air can boost mood and reduce stress; today is a great opportunity to enjoy it fully.",
+        "Enjoy physical activity outdoors, such as tai chi or walking your pet, with zero health risks."
+      ],
+      "pregnantWomen": [
+        "This is a great time to go outside for a calming walk, prenatal yoga, or light exercise in fresh air.",
+        "Open windows and let clean air flow through your home — it’s beneficial for both you and your baby.",
+        "Pregnancy-safe outdoor activities like stretching, nature walks, or light errands are encouraged.",
+        "No need to stay indoors — the air is safe and supportive of physical and emotional well-being.",
+        "Make the most of clean air by spending time in parks, taking mindful walks, or doing light movement outside."
+      ],
+      "asthmatic": [
+        "Air quality poses no risk — feel confident engaging in outdoor exercise or errands without concern.",
+        "You do not need to make any changes to your routine; keep medications as prescribed and enjoy your day.",
+        "Breathing is easy today — consider jogging, cycling, or hiking without fear of triggering symptoms.",
+        "No need for masks or inhalers unless for routine use — the air is clean and asthma-friendly.",
+        "Ideal conditions for improving lung function with exercise — get outside and be active if you're feeling well."
+      ],
+      "generalPublic": [
+        "Perfect weather for physical activity — go for a run, ride your bike, or walk your dog with no health concerns.",
+        "Fresh air is good for the mind and body — take time to enjoy it in your backyard or local green space.",
+        "This is a great time to schedule outdoor plans, community events, or fitness routines.",
+        "There’s no need for any precautions — enjoy all that the outdoors has to offer today.",
+        "Keep windows open and ventilate your home naturally; today’s air is among the cleanest you’ll get."
+      ]
+    }
+  },
+  {
+    "aqiRange": "51-100",
+    "category": "Satisfactory",
+    "recommendations": {
+      "children": [
+        "Outdoor play is still safe for most children, but if your child has respiratory sensitivities, consider shorter play sessions and monitor for any signs of coughing or discomfort.",
+        "Encourage outdoor time earlier in the day or later in the evening when pollution levels are slightly lower and temperatures are cooler.",
+        "Sports and outdoor learning can continue as normal, but be aware of any signs of unusual fatigue or breathing changes in sensitive children.",
+        "If your child has asthma or allergies, it's a good idea to have their inhaler available and take breaks indoors between outdoor activities.",
+        "There’s no need to cancel plans — just ensure children take occasional rest and stay hydrated while playing outside."
+      ],
+      "elderly": [
+        "Outdoor walks and light exercise are still encouraged, but older adults with heart or lung conditions should avoid overexertion during midday when air quality can be at its lowest.",
+        "You can safely go out for shopping, walking, or gardening, but consider wearing a mask if you begin to feel shortness of breath or throat irritation.",
+        "Use this time to enjoy nature but also listen to your body — take breaks if you feel any discomfort or fatigue while outdoors.",
+        "Stay in shaded, well-ventilated areas and avoid high-traffic roads to reduce exposure to pollutants.",
+        "If you take daily medication for a respiratory condition, make sure it’s with you when spending extended periods outside."
+      ],
+      "pregnantWomen": [
+        "It’s generally safe to go for walks or run errands outdoors, but if you start to feel lightheaded or short of breath, it’s best to rest indoors.",
+        "Avoid prolonged exposure in areas with traffic congestion, construction zones, or smoke — these can worsen mild pollution effects.",
+        "Opening windows in the early morning is still okay, but close them if you notice any strange smells or haziness outside.",
+        "During pregnancy, your body is more sensitive, so listen closely — if something feels off during outdoor activity, take it as a sign to go indoors.",
+        "Consider using an air quality tracking app so you can plan outdoor activities at times when the pollution is at its lowest."
+      ],
+      "asthmatic": [
+        "Moderate air quality can cause mild symptoms in some asthma sufferers — carry your inhaler at all times and monitor how your body reacts when outside.",
+        "It’s safe to be outdoors, but avoid intense exercise like running or cycling during the afternoon when air pollutants peak.",
+        "Don’t ignore early warning signs like wheezing or coughing — head indoors and rest if you notice symptoms starting.",
+        "Air quality may seem fine, but sensitive lungs can react — consider wearing a lightweight mask if walking near traffic-heavy areas.",
+        "Be proactive by checking the AQI before leaving the house so you can better prepare or adjust your schedule as needed."
+      ],
+      "generalPublic": [
+        "Most people won’t experience any health issues at this level, so outdoor activities can continue as usual, but staying aware of pollution levels is a good habit.",
+        "It’s still okay to run, bike, or exercise outside, but try to choose parks and nature areas over roads with heavy traffic.",
+        "Use this opportunity to build awareness — while you may feel fine, others around you (like kids or elderly family) might not. Be considerate and informed.",
+        "Keep your indoor air fresh by opening windows in the early morning and evening, but close them during rush hour or smog events.",
+        "While no special action is needed, it’s smart to avoid burning incense or candles indoors during days with higher pollution."
+      ]
+    }
+  },
+  {
+    "aqiRange": "101-200",
+    "category": "Moderate",
+    "recommendations": {
+      "children": [
+        "Avoid sending children out for intense physical activity, especially during the afternoon when pollution tends to peak. Indoor play or light activities are recommended.",
+        "Children with asthma or respiratory sensitivities should remain indoors during high-pollution hours and have their medication accessible at all times.",
+        "If your child complains of headaches, coughing, or itchy eyes after being outside, bring them indoors immediately and consider using an air purifier.",
+        "School and outdoor sports events should be evaluated based on real-time AQI levels — consider postponing if pollution is visibly high or irritation symptoms appear.",
+        "Plan outdoor time in the early morning or after sunset when pollution levels may drop slightly, but still monitor for any symptoms."
+      ],
+      "elderly": [
+        "Older adults, especially those with existing heart or lung conditions, should significantly reduce time spent outdoors and avoid physical exertion in polluted areas.",
+        "If you need to go out, choose quieter streets or parks, wear a certified pollution mask (like N95), and limit time exposed to traffic fumes or industrial areas.",
+        "Use indoor air filters or keep windows closed during the day to reduce indoor pollution levels; ventilate only when AQI improves.",
+        "Monitor for signs like shortness of breath, fatigue, dizziness, or chest discomfort — these could indicate worsening response to air pollutants.",
+        "Prioritize indoor social activities or gentle stretching routines to stay active without risking exposure to unhealthy air."
+      ],
+      "pregnantWomen": [
+        "Air pollution at this level may pose mild risks to fetal development — avoid going outdoors unless absolutely necessary, and always wear a mask if you do.",
+        "Use this time to focus on low-impact indoor exercises like prenatal yoga, stretching, or deep breathing in a purified space.",
+        "Avoid walking or traveling through areas with visible haze, smoke, or heavy vehicle exhaust, especially in the second and third trimesters.",
+        "Drink plenty of water and eat antioxidant-rich foods to help your body reduce the effects of airborne toxins.",
+        "If you feel tired, dizzy, or short of breath while outdoors, return indoors immediately and rest — even brief exposure can affect sensitive individuals."
+      ],
+      "asthmatic": [
+        "This AQI range can significantly impact asthma — you may need to increase the use of your maintenance medication or inhaler, as advised by your doctor.",
+        "Avoid exercising or commuting in areas with high traffic — opt for indoor exercise or remote work options if possible.",
+        "Run a HEPA-filter air purifier indoors and avoid candles, incense, or smoking, as indoor air may already be affected by outside pollution.",
+        "If symptoms like coughing, tight chest, or wheezing begin, treat it immediately and avoid further exposure to poor air quality.",
+        "Wear a well-fitted N95 mask outdoors, and track AQI levels live using a trusted app so you can plan safe times for errands or outings."
+      ],
+      "generalPublic": [
+        "Healthy individuals might start experiencing mild symptoms like throat irritation, dry eyes, or slight shortness of breath — take these signs seriously and reduce prolonged outdoor exposure.",
+
+        "Shift workouts indoors or reschedule them for times when air quality improves, especially if you're prone to seasonal allergies or sinus problems.",
+
+        "Keep your home closed during the day to avoid bringing in pollution; open windows briefly at night if levels drop, or use an air purifier.",
+
+        "Consider wearing a pollution mask if you're commuting or walking near high-traffic zones, especially during rush hours.",
+
+        "Reduce indoor pollutants by avoiding frying, smoking, or using strong cleaning chemicals — polluted days make your indoor air more vulnerable."
+      ]
+    }
+  },
+  {
+    "aqiRange": "201-300",
+    "category": "Poor",
+    "recommendations": {
+      "children": [
+        "Avoid all strenuous outdoor activities for children. Pollution levels are high enough to irritate young lungs and trigger asthma or allergies.",
+        "Move physical activities indoors, such as in a well-ventilated gym or classroom, and keep windows closed throughout the day.",
+        "If going outside is unavoidable (e.g., school commute), ensure children wear a certified anti-pollution mask and limit time spent outdoors.",
+        "Watch for symptoms like persistent coughing, watery eyes, or fatigue — these could be early signs of pollution-related stress in young bodies.",
+        "Encourage quiet indoor play, reading, or digital learning activities to keep children safe and engaged without risking their health."
+      ],
+      "elderly": [
+        "Stay indoors as much as possible and keep windows and doors shut to prevent polluted air from entering. Use air purifiers if available.",
+        "Avoid physical exertion, even short walks, during these high-pollution hours. Instead, perform light stretching or indoor breathing exercises.",
+        "Elderly individuals with heart, lung, or chronic illnesses should monitor symptoms closely and consult a doctor if breathing becomes difficult.",
+        "Keep medications, especially inhalers or heart medications, easily accessible and avoid high-traffic areas or outdoor markets.",
+        "Postpone errands, appointments, or social activities to a day with better air quality — your lungs and heart will thank you."
+      ],
+      "pregnantWomen": [
+        "Minimize outdoor exposure entirely — air quality at this level can be harmful to both you and your unborn baby, especially during physical activity.",
+        "Keep your living space clean and ventilated only when AQI improves. Consider using HEPA air purifiers to maintain indoor air quality.",
+        "Avoid commuting during peak traffic times, and if going out is necessary, wear a high-quality pollution mask and limit your time outside.",
+        "Eat antioxidant-rich foods (like fruits and leafy greens) and stay well-hydrated to help your body combat the effects of pollution.",
+        "If you experience dizziness, headaches, or shortness of breath, move to a cleaner indoor space immediately and consult your doctor."
+      ],
+      "asthmatic": [
+        "Avoid all outdoor exposure unless absolutely necessary — AQI levels this high can trigger severe asthma attacks and breathing complications.",
+        "Use your controller and rescue inhalers as prescribed, and increase indoor air filtration to prevent flare-ups even inside your home.",
+        "Do not engage in outdoor exercise. Instead, opt for light indoor workouts only if you feel physically well and breathing comfortably.",
+        "Monitor your symptoms constantly, especially for increased wheezing, coughing, or tightness in the chest — these require immediate action.",
+        "Consult your healthcare provider if your condition worsens or if you need to increase medication use — do not self-medicate without guidance."
+      ],
+      "generalPublic": [
+        "Air quality is poor enough to affect even healthy individuals. Limit outdoor activities, especially physical exercise like jogging or cycling.",
+        "If going out is necessary, wear an N95 or similar pollution mask and try to avoid roadsides, factories, or smoke-emitting areas.",
+        "Close windows and use indoor air purifiers where possible. Avoid activities that worsen indoor air — like smoking or burning candles.",
+        "Watch for symptoms like throat irritation, persistent coughing, headaches, or fatigue — these are signs your body is reacting to pollution.",
+        "Reduce time spent commuting, order groceries or services online if possible, and delay outdoor plans until conditions improve."
+      ]
+    }
+  },
+  {
+    "aqiRange": "301-400",
+    "category": "Very Poor",
+    "recommendations": {
+      "children": [
+        "Children should not go outside under any circumstances. Schools should consider canceling outdoor classes, sports events, and playground time due to the extremely hazardous air quality.",
+        "Prolonged exposure can cause respiratory distress even in healthy children. Keep them indoors with windows tightly closed and an air purifier running if possible.",
+        "Engage children with quiet indoor activities such as board games, art, reading, or online learning to keep them occupied and safe.",
+        "Ensure your child stays hydrated, and monitor them closely for symptoms like coughing, wheezing, or fatigue — these could be signs of pollution-related distress.",
+        "If your child has asthma or allergies, their rescue inhaler should be within immediate reach. Increase preventive medication if advised by a doctor."
+      ],
+      "elderly": [
+        "Stay indoors entirely. Air quality at this level can lead to severe complications, especially for those with heart disease, COPD, or diabetes.",
+        "Avoid all forms of physical exertion, even within your home. Take regular rest and maintain calm breathing in a clean, well-ventilated room.",
+        "Use a certified air purifier or set up a clean room with sealed windows and doors. Avoid exposure to household pollutants like cooking smoke.",
+        "Do not open windows at any time, and avoid visiting clinics or markets unless absolutely necessary — try to use telemedicine or delivery services.",
+        "Watch for chest pain, breathing difficulty, or sudden fatigue. Have emergency contacts ready, and don’t hesitate to seek medical care if symptoms escalate."
+      ],
+      "pregnantWomen": [
+        "Avoid stepping outside at all costs. Air pollution at this level can affect fetal development and increase stress on your respiratory and cardiovascular systems.",
+        "Stay in a sealed indoor space with air purification running. If you don’t have a purifier, consider creating a makeshift clean room with damp towels on windows.",
+        "Avoid any kind of physical stress — rest, hydrate, and avoid cooking or using chemical cleaners which can worsen indoor air.",
+        "Watch closely for symptoms like nausea, dizziness, or shortness of breath — and consult your doctor immediately if any of these arise.",
+        "Keep emergency contact numbers handy and avoid commuting or attending appointments in person unless medically necessary."
+      ],
+      "asthmatic": [
+        "AQI levels this high are extremely dangerous for people with asthma — even brief exposure outside can trigger life-threatening attacks.",
+        "Stay inside at all times with your inhalers and medications ready. Use your controller medication proactively and follow your asthma action plan closely.",
+        "Avoid cleaning agents, incense, and anything that emits fumes indoors. Combine air purifiers with HEPA filters if available, and seal the room.",
+        "If symptoms worsen or you’re using your rescue inhaler more frequently than usual, contact your doctor immediately or seek emergency help.",
+        "Avoid talking walks near windows or doors. Even indoor exposure to outside air may irritate your airways — stay in a sealed room if possible."
+      ],
+      "generalPublic": [
+        "This air quality is hazardous for everyone. Do not engage in any outdoor activities — stay indoors with doors and windows tightly shut.",
+        "Use N95 masks indoors if air quality is leaking inside. Avoid exercising, cleaning, or cooking with oil — all can worsen your exposure.",
+        "Do not invite guests or visit public spaces unless it’s an emergency. Limit movement indoors and reduce talking or exertion to protect your lungs.",
+        "Watch for signs of exposure like headaches, tight chest, persistent coughing, or shortness of breath — take these seriously.",
+        "If you must go outside (e.g., for medical emergencies), wear an industrial-grade mask, use eye protection, and limit time outdoors to under 10 minutes if possible."
+      ]
+    }
+  },
+  {
+    "aqiRange": "401-500",
+    "category": "Severe",
+    "recommendations": {
+      "children": [
+        "Children must remain indoors with no exceptions. Outdoor air is extremely toxic and may cause irreversible damage to developing lungs.",
+        "Do not allow any form of outdoor play, school activity, or commute unless life-threatening emergency services are required.",
+        "Use an air purifier continuously in the child’s room. If unavailable, seal windows and doors with damp towels and avoid opening doors unnecessarily.",
+        "Encourage calm, seated indoor activities like reading or quiet games to prevent unnecessary exertion that may trigger respiratory distress.",
+        "If your child has asthma, allergies, or chronic respiratory issues, increase controller medication as advised and have their emergency inhaler within immediate reach."
+      ],
+      "elderly": [
+        "Stay completely indoors in a sealed environment. Air at this level is dangerous even for short exposure and can cause acute cardiovascular or respiratory crises.",
+        "Use medical-grade air filtration wherever possible, and avoid cooking, cleaning agents, or anything that can pollute indoor air further.",
+        "Avoid any physical movement beyond what’s necessary — even light exertion may cause shortness of breath or heart strain in this pollution range.",
+        "Prepare emergency contact information, medical documents, and supplies in case of worsening symptoms that require urgent intervention.",
+        "Call a healthcare provider immediately if you feel chest tightness, dizziness, weakness, or unusual fatigue — these are danger signs under these conditions."
+      ],
+      "pregnantWomen": [
+        "Severe air pollution can affect both the mother and fetus. Avoid going outside under any condition and stay in a purified or sealed indoor space.",
+        "Use double-layered curtains or plastic sheeting to block any window leaks. Consider creating a clean air room with minimal airflow from outside.",
+        "Do not engage in any physical or household activity that may stress your respiratory system — rest and breathe slowly in clean air.",
+        "Contact your obstetrician if you experience headaches, nausea, or shortness of breath — pollution toxicity can elevate these risks significantly.",
+        "Maintain a diet rich in antioxidants and keep hydrated to assist your body in coping with environmental stress, even indoors."
+      ],
+      "asthmatic": [
+        "Severe pollution levels can rapidly trigger asthma attacks, even in otherwise controlled conditions. Avoid any outdoor exposure — this is a health emergency.",
+        "Use your asthma controller medication preemptively as per your action plan, and have your rescue inhaler within arm’s reach at all times.",
+        "Consider staying in one designated clean-air room with sealed entry points and continuous air filtration to minimize irritant exposure.",
+        "Avoid speaking, physical movement, or even emotional stress that may trigger respiratory responses. Remain calm and monitor your breathing.",
+        "If symptoms escalate — increased inhaler use, chest tightness, rapid breathing — do not wait. Seek medical attention or call emergency services immediately."
+      ],
+      "generalPublic": [
+        "Everyone is at risk at this AQI level. Avoid going outdoors entirely. Reschedule all non-emergency errands, work, or social activities.",
+        "Do not rely on cloth or surgical masks — only industrial-grade masks (e.g., N95/N100) provide minimal protection, and even they are not enough for long-term exposure.",
+        "Keep your indoor air as clean as possible — avoid smoking, frying, using aerosols, or burning candles. Every added pollutant will worsen indoor quality.",
+        "If you live in a high-exposure area (near roads or construction), seal windows and cracks, and place wet towels at doors to block airflow.",
+        "Watch closely for signs like lightheadedness, rapid heart rate, cough, or pressure in the chest — seek urgent care if these symptoms appear."
+      ]
+    }
+  }
+]

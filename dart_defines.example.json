@@ -1,0 +1,5 @@
+{
+  "GOOGLE_MAP_API_KEY": "your_google_maps_platform_key",
+  "AQI_NINJA_KEY": "your_api_ninjas_key",
+  "AQI_WAQI_TOKEN": "your_waqi_token"
+}

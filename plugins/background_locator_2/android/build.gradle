@@ -1,0 +1,60 @@
+group 'yukams.app.background_locator_2'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    ext.kotlin_version = '1.8.22'   // ✅ match your main app Kotlin version
+    repositories {
+        google()
+        mavenCentral()              // ✅ replace jcenter (deprecated)
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.7.0'  // ✅ modern AGP
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+
+android {
+    namespace "yukams.app.background_locator_2"
+    compileSdk = 35
+
+    defaultConfig {
+        minSdkVersion 23
+        targetSdkVersion 35
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17   // ✅ upgrade JVM
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"   // ✅ same as your main app
+    }
+
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation "com.google.android.gms:play-services-location:21.0.1"
+    implementation 'com.google.code.gson:gson:2.10.1'
+    implementation 'com.google.android.material:material:1.9.0'
+}
